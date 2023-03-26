@@ -1,0 +1,6 @@
+streamlit
+openai
+langchain
+unstructured
+git+https://github.com/facebookresearch/detectron2
+unstructured[local-inference]
